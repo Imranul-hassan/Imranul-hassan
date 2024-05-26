@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imranul Hassan Akib</h1>
+<h1 align="center">Hi 👋, I'm  Mohammad Imranul Hassan Akib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranul-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="imranul-hassan" /> </p>
