@@ -3,8 +3,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranul-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="imranul-hassan" /> </p>
-
 - 🌱 I’m currently learning **Computer Science & Engineering**
 
 - 📫 How to reach me **imranulhassan3296@gmail.com**
@@ -23,8 +23,16 @@
 <a href="mailto:tonmoy.cse.ctg@gmail.com?subject=Hi%20Tonmoy%20,%20nice%20to%20meet%20you!"><img alt="Gmail" src="https://img.shields.io/static/v1?style=for-the badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
-<div style="display: inline-block;" align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranul-hassan&show_icons=true&locale=en&layout=compact" alt="imranul-hassan" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=imranul-hassan&show_icons=true&locale=en" alt="imranul-hassan" /></p>
+<div style="display: inline-block;">
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranul-hassan&show_icons=true&locale=en&layout=compact" alt="imranul-hassan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imranul-hassan&show_icons=true&locale=en" alt="imranul-hassan" /></p>
 </div>
+
+<h2 style="color: #36BCF7FF;" align=center> < Statistics / > </h2>
+<p align="center">
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tonmoyhridhaan&theme=discord_old_blurple" alt="Tonmoyhridhaan" />
+	<br/>
+	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tonmoyhridhaan&theme=discord_old_blurple" alt="Tonmoyhridhaan" />
+	
+	
+</p>
