@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Mohammad Imranul Hassan Akib</h1>
 <div align="center"" > <img src="front-end-development-service.jpg"> </div>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I'm an enthusiastic final-year Computer Science and Engineering student passionate about exploring a career in software engineering, with a particular focus on front-end development. I thrive on learning new technologies and adapting to dynamic environments.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   
@@ -30,7 +30,7 @@
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranul-hassan&show_icons=true&locale=en&layout=compact" alt="imranul-hassan" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=imranul-hassan&show_icons=true&locale=en" alt="imranul-hassan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranul-hassan&show_icons=true&locale=en" alt="imranul-hassan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranul-hassan&" alt="imranul-hassan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=imranul-hassan&" alt="imranul-hassan" /></p>
 	
