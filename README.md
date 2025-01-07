@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm  Mohammad Imranul Hassan Akib</h1>
-<div align="center"" > <img src="2.png"> </div>
-<h3 align="center">As a Computer Science and Engineering graduate, I’m passionate about pursuing a career in software engineering, with a focus on front-end development. I’m driven by the ability to continuously learn and adapt to new technologies in dynamic environments.</h3>
 
-<!-- About Me -->
+<div align="center"" > <img src="2.png"> </div>
+
+<div align="left">
+    <h1>Hi there 👋</h1>
+    <h1>I'm Mohammad Imranul Hassan Akib</h1>
+    <h2 style="color: #36BCF7FF;">Frontend Developer</h2>
+</div>
+
 <!-- 🌱 About Me -->
 <h2 align="left" style="color: #36BCF7;">🌱 About Me</h2>
+<h4 align="left">As a Computer Science and Engineering graduate, I’m passionate about pursuing a career in software engineering, with a focus on front-end development. I’m driven by the ability to continuously learn and adapt to new technologies in dynamic environments.</h4>
+
 <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #333;">
   <li style="margin-bottom: 10px;">
     🎓 <strong>Deepening my knowledge in</strong> <span style="color: #36BCF7;">Computer Science & Engineering</span>
@@ -66,7 +72,23 @@
 
 ---
 
+<h3 align="left" style="color: #36BCF7;">🌐 Social Connections</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohammad-imranul-hassan-akib-73a510245/" class="connect-badge linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Imranul-Hassan" class="connect-badge github">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:imranulhassan3296@gmail.com" class="connect-badge gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://imranul-hassan-portfolio.netlify.app" class="connect-badge website">
+    <img src="https://img.shields.io/badge/Website-8e7e57?style=flat-square&logo=google&logoColor=white" alt="My Website">
+  </a>
+</div>
 
+  
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
