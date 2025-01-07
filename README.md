@@ -8,7 +8,7 @@
     <li>🎓 Deepening my knowledge in <strong>Computer Science & Engineering</strong></li>
     <li>👨‍💻 Explore my professional journey on <a href="https://www.linkedin.com/in/mohammad-imranul-hassan-akib-73a510245/" target="_blank"><strong>LinkedIn</strong></a></li>
     <li>📫 Feel free to reach out at <strong>imranulhassan3296@gmail.com</strong></li>
-    <li>📄 Check out my <a href="https://imranul-hassan.github.io/imranul-hassan-resume/" target="_blank"><strong>GitHub Resume</strong></a></li>
+    <li>📄 Check out my <a href="https://imranul-hassan-portfolio.netlify.app" target="_blank"><strong>Portfolio</strong></a></li>
   </ul>
 
 ---
